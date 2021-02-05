@@ -1,11 +1,10 @@
 import './App.css';
-import Auth from './components/concepts/day03/Auth/Auth'
-
+import ChuckNorris from './components/concepts/day04/ChuckNorris/ChuckNorris';
 
 function App() {
   return (
     <div>
-      <Auth />
+      <ChuckNorris />
     </div>
   );
 }
